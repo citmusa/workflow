@@ -1,1 +1,0 @@
-$('.tagline').append('HOLA!!');
